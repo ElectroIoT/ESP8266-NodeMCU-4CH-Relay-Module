@@ -24,8 +24,8 @@ This project demonstrates how to control **four relays** using an **ESP8266 (Nod
 ---
 
 ## 🖼️ **Circuit Diagram**
-![alt_text, width="200"](/image/Circuit Diagram.JPG)
-![alt_text, width="100"](/image/Circuit Diagram2.JPG)
+![alt_text, width="200"](/image/CircuitDiagram.JPG)
+![alt_text, width="100"](/image/Circuit_Diagram2.JPG)
 ![alt_text, width="100"](/image/PCB_3d.JPG)
 
 ### 🧩 **Connections**
